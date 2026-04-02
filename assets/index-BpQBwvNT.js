@@ -9,7 +9,6 @@ var e=Object.create,t=Object.defineProperty,n=Object.getOwnPropertyDescriptor,r=
                width="400" height="300"
                loading="lazy"
                decoding="async" />
-          <div class="menu-card__img-placeholder" aria-hidden="true">[FOTO: ${t}]</div>
           <div class="menu-card__hover-heart" aria-hidden="true">♥</div>
         </div>
         <div class="menu-card__body">
