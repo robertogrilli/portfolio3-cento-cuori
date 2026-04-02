@@ -187,7 +187,6 @@ function renderMenuCards() {
                width="400" height="300"
                loading="lazy"
                decoding="async" />
-          <div class="menu-card__img-placeholder" aria-hidden="true">[FOTO: ${name}]</div>
           <div class="menu-card__hover-heart" aria-hidden="true">♥</div>
         </div>
         <div class="menu-card__body">
