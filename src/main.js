@@ -21,7 +21,7 @@ const pizzaData = [
     price: '€7',
     category: 'classica',
     tags: ['vegetariana'],
-    img: '/images/pizza-margherita.jpg',
+    img: './images/pizza-margherita.jpg',
   },
   {
     id: 'napoli',
@@ -32,7 +32,7 @@ const pizzaData = [
     price: '€10',
     category: 'classica',
     tags: [],
-    img: '/images/pizza-napoli.jpg',
+    img: './images/pizza-napoli.jpg',
   },
   {
     id: 'bufala',
@@ -43,7 +43,7 @@ const pizzaData = [
     price: '€10',
     category: 'classica',
     tags: ['vegetariana'],
-    img: '/images/pizza-bufala.jpg',
+    img: './images/pizza-bufala.jpg',
   },
   {
     id: 'prosciutto',
@@ -54,7 +54,7 @@ const pizzaData = [
     price: '€10',
     category: 'classica',
     tags: [],
-    img: '/images/pizza-prosciutto.jpg',
+    img: './images/pizza-prosciutto.jpg',
   },
   {
     id: 'salame',
@@ -65,7 +65,7 @@ const pizzaData = [
     price: '€10',
     category: 'classica',
     tags: [],
-    img: '/images/pizza-salame.jpg',
+    img: './images/pizza-salame.jpg',
   },
   {
     id: 'cotto-funghi',
@@ -76,7 +76,7 @@ const pizzaData = [
     price: '€10',
     category: 'classica',
     tags: [],
-    img: '/images/pizza-cotto-funghi.jpg',
+    img: './images/pizza-cotto-funghi.jpg',
   },
   {
     id: 'pesto-mozza',
@@ -87,7 +87,7 @@ const pizzaData = [
     price: '€10',
     category: 'speciale',
     tags: ['vegetariana'],
-    img: '/images/pizza-pesto.jpg',
+    img: './images/pizza-pesto.jpg',
   },
   {
     id: 'rucola',
@@ -98,7 +98,7 @@ const pizzaData = [
     price: '€11',
     category: 'speciale',
     tags: ['vegetariana'],
-    img: '/images/pizza-rucola.jpg',
+    img: './images/pizza-rucola.jpg',
   },
   {
     id: '1955',
@@ -110,7 +110,7 @@ const pizzaData = [
     category: 'speciale',
     tags: [],
     featured: true,
-    img: '/images/pizza-1955.jpg',
+    img: './images/pizza-1955.jpg',
   },
   {
     id: 'calzone',
@@ -121,7 +121,7 @@ const pizzaData = [
     price: '€10',
     category: 'calzone',
     tags: [],
-    img: '/images/calzone.jpg',
+    img: './images/calzone.jpg',
   },
 ]
 
